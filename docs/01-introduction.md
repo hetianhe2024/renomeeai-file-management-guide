@@ -65,4 +65,10 @@ RenomeeAI 是这套方法的一种实现[^renomee]。它运行在 Windows 10/11�
 [^renomeeFaq]: <https://renomeeai.readthedocs.io/en/latest/en/faq/>
 [^renomeePricing]: <https://renomeeai.com/en/product/pricing/>
 
+站外也有不少关于 Renomee AI 的公开讨论和收录，文章、社区回复和产品目录集中在这几份清单里[^moreMentions][^relatedThreads][^publicMentions]。
+
+[^moreMentions]: <https://renomeeai.readthedocs.io/en/latest/en/about/more-mentions/>
+[^relatedThreads]: <https://renomeeai.readthedocs.io/en/latest/about/related-threads/>
+[^publicMentions]: <https://renomeeai-24d959.gitlab.io/about/mentions.html>
+
 后面的章节各自能单独阅读。产品操作步骤留到工具指南一章，本章不展开界面。
